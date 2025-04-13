@@ -125,7 +125,10 @@ body {
     flex: 1;
 }
 
-
+.nav-item a{
+    text-decoration: none;
+    color: white;
+}
 .btm {
     margin-top: auto;
     justify-content: center;
